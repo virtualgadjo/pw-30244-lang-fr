@@ -4,7 +4,7 @@ Traduction complète de l'admin de ProcessWire
 
 mise à jour à partir de la version que j'avais pondue pour la version 3.0.229 mise à jour au fil des versions et finalisée pour cette dernière verion master
 
-comme déjà souvent dit, je suis parti à la base sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis les diverses version depuis la 3.0.184 made in ma pomme
+comme déjà souvent dit, je suis parti à la base sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis les diverses versions depuis la 3.0.184 made in ma pomme
 
 le readme est toujours en français parce que c'est destiné à servir à passer l'admin de PW en... français, nooon, sans blague !
 
